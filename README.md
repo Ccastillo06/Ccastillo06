@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 🦄
+
+### About me:
+
+🔭 I’m currently working on some freelance projects and also as a Lead Teacher.
 
 <!--
 **Ccastillo06/Ccastillo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
