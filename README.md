@@ -1,5 +1,7 @@
 ## Hi there 🦄
 
+<img src="./assets/banner.png" alt="banner">
+
 ### About me:
 
 🔭 I’m currently working on some freelance projects and also as a Lead Teacher.
