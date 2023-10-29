@@ -7,7 +7,7 @@
 
 <p>
   Want to contact me for business as a contractor or got a nice remote opportunity in your company? Find me here...
-  <a href="https://www.linkedin.com/in/konstantinos-georgiou/">
+  <a href="https://www.linkedin.com/in/cristiancastillonavarro/" >
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
